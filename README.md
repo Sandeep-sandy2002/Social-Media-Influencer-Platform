@@ -83,8 +83,8 @@ campaigns
 followers
 
 🎯 Purpose of the Project
-1)This project helped me understand:
-2)How full-stack applications work
-3)How to connect frontend pages with backend APIs
-4)How to handle users, permissions, and data
-5)How to build a user-friendly and functional interface
+This project helped me understand:
+1)How full-stack applications work
+2)How to connect frontend pages with backend APIs
+3)How to handle users, permissions, and data
+4)How to build a user-friendly and functional interface
